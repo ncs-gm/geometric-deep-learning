@@ -102,9 +102,19 @@ Contributed by Nhut Nam Le
 
 **Fixed gauge**
 
+1. Federico Monti, Davide Boscaini, Jonathan Masci, Emanuele Rodolà, Jan Svoboda, Michael M. Bronstein, **Geometric deep learning on graphs and manifolds using mixture model CNNs**, [paper](https://arxiv.org/abs/1611.08402)
+2. Simone Melzi, Riccardo Spezialetti, Federico Tombari, Michael M. Bronstein, Luigi Di Stefano, Emanuele Rodola, **GFrames: Gradient-Based Local Reference Frame for 3D Shape Matching**, [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Melzi_GFrames_Gradient-Based_Local_Reference_Frame_for_3D_Shape_Matching_CVPR_2019_paper.pdf)
+
 **Angular pooling**
 
+1. Federico Monti, Davide Boscaini, Jonathan Masci, Emanuele Rodolà, Jan Svoboda, Michael M. Bronstein, **Geometric deep learning on graphs and manifolds using mixture model CNNs**, [paper](https://arxiv.org/abs/1611.08402)
+2. Jonathan Masci, Davide Boscaini, Michael M. Bronstein, Pierre Vandergheynst, **Geodesic convolutional neural networks on Riemannian manifolds**, [paper](https://arxiv.org/abs/1501.06297)
+3. Davide Boscaini, Jonathan Masci, Emanuele Rodolà, Michael M. Bronstein, **Learning shape correspondence with anisotropic convolutional neural networks**, [paper](https://arxiv.org/abs/1605.06437)
+
 **Gauge-equivariant filters**
+
+1. Taco S. Cohen, Maurice Weiler, Berkay Kicanaoglu, Max Welling, **Gauge Equivariant Convolutional Networks and the Icosahedral CNN**, [paper](https://arxiv.org/abs/1902.04615)
+2. Pim de Haan, Maurice Weiler, Taco Cohen, Max Welling, **Gauge Equivariant Mesh CNNs: Anisotropic convolutions on geometric graphs**, [paper](https://arxiv.org/abs/2003.05425)
 
 ### [Recurrent Neural Networks](#recurrent-neural-networks)
 
