@@ -122,4 +122,20 @@ Contributed by Nhut Nam Le
 
 **Status**: Still updating...
 
+# Workshop on Geometrical and Topological Representation Learning
+
+## NeurIPS 2020: Topological Data Analysis and Beyond
+
+- $k$-simplex2vec: a simplicial extension of node2vec [openreview](https://openreview.net/forum?id=Aw9DUXPjq55) [arXiv](https://arxiv.org/abs/2010.05636) [code implement](https://github.com/celiahacker/k-simplex2vec)
+
+```
+@inproceedings{
+hacker2020ksimplexvec,
+title={{\$}k{\$}-simplex2vec: a simplicial extension of node2vec},
+author={Celia Hacker},
+booktitle={NeurIPS 2020 Workshop on Topological Data Analysis and Beyond},
+year={2020},
+url={https://openreview.net/forum?id=Aw9DUXPjq55}
+}
+```
 
